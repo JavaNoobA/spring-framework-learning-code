@@ -1,6 +1,6 @@
-package me.erudev.spring.basic_dl;
+package me.erudev.spring.basic_dl.quick_byname;
 
-import me.erudev.spring.basic_dl.person.Person;
+import me.erudev.spring.basic_dl.quick_byname.person.Person;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

@@ -1,4 +1,4 @@
-package me.erudev.spring.basic_dl.person;
+package me.erudev.spring.basic_dl.quick_byname.person;
 
 /**
  * @author pengfei.zhao

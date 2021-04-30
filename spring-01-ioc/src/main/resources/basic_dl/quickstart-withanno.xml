@@ -3,7 +3,6 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         https://www.springframework.org/schema/beans/spring-beans.xsd">
-    <bean id="person" class="me.erudev.spring.basic_dl.quick_byname.person.Person">
-        <property name="name" value="zhangsan" />
-    </bean>
+    <bean id="black" class="me.erudev.spring.basic_dl.withanno.bean.Black" />
+    <bean id="red" class="me.erudev.spring.basic_dl.withanno.bean.Red" />
 </beans>
